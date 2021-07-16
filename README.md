@@ -36,8 +36,8 @@ As a developer, you will be writing tests for every component. As we've learned,
 > *All of the work you will do today will be contained inside the ContactForm.test.js file. You will be tasked to write the code for at least 9 different tests on various parts of the ContactForm component. Please read the instructions for each test carefully.*
 
 #### Test Brainstorming
-* [ ] Run and play around with the form interface.
-* [ ] Write out a list of possible testcases for this application within Understanding-questions.md.
+* [X] Run and play around with the form interface.
+* [X] Write out a list of possible testcases for this application within Understanding-questions.md.
 
 #### Complete a case that tests if:
 * [ ] the component renders the contact form component without errors.
